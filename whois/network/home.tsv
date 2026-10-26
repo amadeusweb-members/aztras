@@ -1,0 +1,9 @@
+|is-table
+||cloneAt: aztras/
+||renderWith: repos.php
+||Description: Seeding an Internet of Missions
+||Primary Keyword: DAWN
+||Keywords: Internet of Missions, Dynamic AmadeusWeb Network
+#at	from
+www	https://github.com/amadeusweb-members/aztras.git
+businesses/realtors	https://github.com/amadeusweb-members/realtors.git
