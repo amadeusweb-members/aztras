@@ -1,11 +1,11 @@
 #key	value
 name	Aztra's Group
 byline	Building Trust
-safeName	aztras-home
+safeName	aztras-group
 footer-message	A conscious network for business and charity in Chennai, <u>Tamil Nadu</u>, India.
 iconName	Aztra's Group
 siteMenuName	Aztras Home
 sections	whois
-local-url	http://localhost/aztras/www/
+local-url	http://localhost/sites/aztras/www/
 live-url	https://aztras.com/
 year	2026

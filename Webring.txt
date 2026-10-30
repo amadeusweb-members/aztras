@@ -1,8 +1,10 @@
 ~Aztras Enterprises
-aztras/www
+sites/aztras/www
 
-~Businesses
-aztras/businesses/realtors
+~Realty
+sites/aztras/realty/vra
+sites/aztras/realty/fornax
+sites/aztras/realty/tharaghar
 
 |~For Society
 |aztras/charity/thevar-mission
