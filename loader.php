@@ -1,5 +1,5 @@
 <?php
-define('NETWORKPATH', __DIR__);
+if (!DEFINED('NETWORKPATH')) define('NETWORKPATH', __DIR__);
 $site = pathinfo(SITEPATH, PATHINFO_FILENAME);
 define('SITENAME', $site == 'www' ? 'aztras' : $site);
 

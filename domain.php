@@ -1,5 +1,5 @@
 <?php
-domain::add('aztras', __DIR__, domain::SkipList, new domain([
+domain::add('sites/aztras', __DIR__, domain::SkipList, new domain([
 		'folder' => 'sites/aztras/',
 		'heading' => 'Aztras Enterprises',
 		'local' => 'http://localhost/sites/aztras/%subfol%/%site%/',
